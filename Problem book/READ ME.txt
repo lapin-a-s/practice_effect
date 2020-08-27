@@ -1,0 +1,7 @@
+authorization_problem_book.php - файл авторизации
+add_book.php - файл добавления
+crudmodal - файл просмотра и удаления
+updatemodal - файл изменения
+main.js - файл js для модальных окон.
+problem_book.sql - скрипт базы данных.
+Использовался jquery-3.2.1, bootstrap 4.
